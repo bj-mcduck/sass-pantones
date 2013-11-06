@@ -25,8 +25,7 @@ Then in your SCSS file import the file:
 @import "other-file-that-will-use-it";
 ```
 
-Creative Commons License
-------------------------
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Semantic Rainbow</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://brandonjmckay.com" property="cc:attributionName" rel="cc:attributionURL">Brandon J McKay</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+License
+-------
 
-Tweet me [@brandonjmckay](http://twitter.com/brandonjmckay).
+SASS Pantones is free to use as you like under the MIT license.
